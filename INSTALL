@@ -1,0 +1,9 @@
+Building PuchCoin
+
+See doc/readme-qt.rst for instructions on building PuchCoin Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of PuchCoin.
+
+See doc/build-*.txt for instructions on building PuchCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of PuchCoin.

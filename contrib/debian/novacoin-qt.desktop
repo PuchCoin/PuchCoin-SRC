@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PuchCoin
+Comment=PuchCoin P2P Cryptocurrency
+Comment[ru]=PuchCoin, P2P криптовалюта
+Comment[fr]=PuchCoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=PuchCoin, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/PuchCoin-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/PuchCoin80.xpm
+MimeType=x-scheme-handler/PuchCoin;
+Categories=Office;

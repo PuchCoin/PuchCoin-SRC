@@ -1,0 +1,5 @@
+PuchCoin-qt usr/bin
+share/pixmaps/PuchCoin32.xpm usr/share/pixmaps
+share/pixmaps/PuchCoin80.xpm usr/share/pixmaps
+debian/PuchCoin-qt.desktop usr/share/applications
+debian/PuchCoin-qt.protocol usr/share/kde4/services/

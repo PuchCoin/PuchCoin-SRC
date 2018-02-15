@@ -1,0 +1,2 @@
+debian/bin/PuchCoind usr/bin
+src/PuchCoind usr/lib/PuchCoin

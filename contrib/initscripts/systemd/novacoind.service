@@ -1,0 +1,11 @@
+[Unit]
+Description=PuchCoin daemon serivce
+After=network.target
+
+[Service]
+Type=simple
+User=PuchCoin
+ExecStart=/opt/PuchCoin/PuchCoind
+
+[Install]
+WantedBy=multi-user.target
